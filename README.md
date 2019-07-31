@@ -1,2 +1,2 @@
 # ImPress
-A Compression Script for BW Binary Images
+A Compression Matlab Script for BW Binary Images
